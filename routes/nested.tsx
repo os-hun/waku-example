@@ -9,5 +9,5 @@ export default ({ children }: { children: ReactNode }) => {
       <Counter />
       {children}
     </div>
-  );
-};
+  )
+}
